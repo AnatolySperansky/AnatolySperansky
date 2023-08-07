@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AnatolySperansky
+- 👀 I’m interested in making 2d games.
+- 🌱 I’m currently learning c#
